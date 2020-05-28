@@ -1,0 +1,17 @@
+{
+  "name": "jr-manufacturing",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "homepage": "https://jorge-ui.github.io/jr-manufact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
